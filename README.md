@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itstuneday
-- 👀 I’m interested in becoming a Full Stack Web Developer
-- 🌱 I’m currently learning Frontend Web Development
+- 👀 Becoming a Full Stack Web Developer is the goal
+- 🌱 I’m currently learning Js and React
 - 💞️ I’m looking to collaborate on any Web Development Projects
 - 📫 How to reach me send a mail via fadipetunde5@gmail.com
 
